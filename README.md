@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @mariamaradou
 - 👀 I’m interested in programing, especially Web and Database Development.
-- 🌱 I’m currently learning React js for my thesis.
-- 💞️ I’m looking to collaborate on projects related to web.
+
